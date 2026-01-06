@@ -1,36 +1,32 @@
 # Victhor Cabral Magalhães
 
-Sétimo período de Ciência da Computação na **UFT (Universidade Federal do Tocantins)**. Meu foco está na intersecção entre o desenvolvimento de sistemas robustos e seguros e a análise inteligente de dados.
+Atualmente no 7º período de Ciência da Computação na **UFT**. Meu trabalho acadêmico e técnico foca na construção de sistemas robustos pelo lado do servidor e na análise de dados para suporte à decisão.
 
 ### 🧠 Áreas de Atuação & Interesses
-- **Engenharia de Software:** Construção de aplicações escaláveis com foco em arquitetura e boas práticas.
-- **Ciência de Dados:** Transformação de dados brutos em insights através de Machine Learning e estatística.
-- **Segurança da Informação:** Área de grande interesse pessoal e acadêmico; atualmente focado no estudo teórico de vulnerabilidades e protocolos de proteção, buscando oportunidades para migrar esse conhecimento para a prática.
+- **Desenvolvimento Backend:** Focado em engenharia de software, construção de APIs e arquitetura de sistemas escaláveis.
+- **Ciência de Dados:** Aplicação de Machine Learning e estatística para transformar volumes de dados em insights.
+- **Segurança da Informação:** Entusiasta da área; em fase de aprofundamento teórico sobre vulnerabilidades e protocolos, com o objetivo de integrar práticas de segurança no ciclo de desenvolvimento.
 
 ---
 
 ### 💻 Stack Técnica
 
-#### **Linguagens de Programação**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+**Linguagens & Ecossistema Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-#### **Frameworks & Mobile**
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+**Data Science & Inteligência Artificial**
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-#### **Ciência de Dados & Machine Learning**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-#### **Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
+**Persistência & Mobile**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
@@ -42,7 +38,7 @@ Sétimo período de Ciência da Computação na **UFT (Universidade Federal do T
 
 ---
 
-### 🔭 Projetos & Portfólio
-Utilizo este espaço para documentar minha evolução prática. Abaixo, você encontrará repositórios que refletem meus estudos em Engenharia de Software e Ciência de Dados.
+### 🔭 Portfólio de Evolução
+Este espaço é dedicado à documentação de projetos práticos e experimentos acadêmicos. Aqui você encontrará implementações que vão de algoritmos de baixo nível em C até arquiteturas web modernas e modelos preditivos.
 
-**[Link para o LinkedIn](https://www.linkedin.com/in/victhor-cabral-magalhaes-916a16261)** | **[E-mail de Contato](mailto:vcabralmagalhaes@gmail.com)**
+**[Conectar via LinkedIn](https://www.linkedin.com/in/victhor-cabral-magalhaes-916a16261)** | **[Enviar E-mail](mailto:vcabralmagalhaes@gmail.com)**
