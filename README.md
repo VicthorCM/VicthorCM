@@ -45,4 +45,4 @@ Sétimo período de Ciência da Computação na **UFT (Universidade Federal do T
 ### 🔭 Projetos & Portfólio
 Utilizo este espaço para documentar minha evolução prática. Abaixo, você encontrará repositórios que refletem meus estudos em Engenharia de Software e Ciência de Dados.
 
-**[Link para o LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)** | **[E-mail de Contato](mailto:seu-email@dominio.com)**
+**[Link para o LinkedIn](https://www.linkedin.com/in/victhor-cabral-magalhaes-916a16261)** | **[E-mail de Contato](mailto:vcabralmagalhaes@gmail.com)**
