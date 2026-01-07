@@ -1,6 +1,6 @@
 # Victhor Cabral Magalhães
 
-Atualmente no 7º período de Ciência da Computação na **UFT**. Meu trabalho acadêmico e técnico foca na construção de sistemas robustos pelo lado do servidor e na análise de dados para suporte à decisão.
+Atualmente no 7º período de Ciência da Computação na **UFT**. Buscando me desenvolver cada vez mais na construção de backends robustos e na análise de dados para suporte à decisão.
 
 ### 🧠 Áreas de Atuação & Interesses
 - **Desenvolvimento Backend:** Focado em engenharia de software, construção de APIs e arquitetura de sistemas escaláveis.
