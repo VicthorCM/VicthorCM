@@ -39,6 +39,6 @@ Atualmente no 7º período de Ciência da Computação na **UFT**. Buscando me d
 ---
 
 ### 🔭 Portfólio de Evolução
-Este espaço é dedicado à documentação de projetos práticos e experimentos acadêmicos. Aqui você encontrará implementações que vão de algoritmos de baixo nível em C até arquiteturas web modernas e modelos preditivos.
+Este espaço é dedicado à documentação de projetos práticos e experimentos acadêmicos.
 
 **[Conectar via LinkedIn](https://www.linkedin.com/in/victhor-cabral-magalhaes-916a16261)** | **[Enviar E-mail](mailto:vcabralmagalhaes@gmail.com)**
